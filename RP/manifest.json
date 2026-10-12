@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "LAST LIFE (Resource)",
+    "description": "LAST LIFE: 7-Session Survival Textures & Assets by TheDarkLight836",
+    "uuid": "a8d6bbb8-43b6-4f45-87b7-184af3877c7e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "description": "LAST LIFE Resources by TheDarkLight836",
+      "type": "resources",
+      "uuid": "ee64114c-8070-496f-b9f4-88319670a580",
+      "version": [1, 0, 0]
+    }
+  ]
+}
